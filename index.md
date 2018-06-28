@@ -8,4 +8,4 @@
 
 [考勤系统：https://tm.ab-inbev.cn/wfc/logon](https://tm.ab-inbev.cn/wfc/logon)
 
-[MXP系统：https://abi.mobilexpense.com/]（https://abi.mobilexpense.com/）
+[MXP系统：https://abi.mobilexpense.com/Home/mxp_login.asp](https://abi.mobilexpense.com/Home/mxp_login.asp)
