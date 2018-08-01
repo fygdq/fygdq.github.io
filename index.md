@@ -19,3 +19,17 @@
 ===
 
 O365服务器地址：partner.outlook.cn
+
+内网网址
+===
+[Barcode系统：http://172.31.193.221/barcode/](http://172.31.193.221/barcode/)
+[BPM系统：http://172.31.193.193/ABInbev.Web/Index.aspx](http://172.31.193.193/ABInbev.Web/Index.aspx)
+[DT系统：http://172.31.33.173/dt/#/view/stoplog](http://172.31.33.173/dt/#/view/stoplog)
+[MCRS系统（内网）：http://172.31.135.13:83/](http://172.31.135.13:83/)
+[OPR系统：http://172.31.193.145/](http://172.31.193.145/)
+[SAP密码重置：http://sapnrp.ap.interbrew.net:8079/sap(bD16aCZjPTEwMA==)/bc/bsp/sap/zuser_reset/userid.htm?sap-params=bGFuZz1F](http://sapnrp.ap.interbrew.net:8079/sap(bD16aCZjPTEwMA==)/bc/bsp/sap/zuser_reset/userid.htm?sap-params=bGFuZz1F)
+[考勤系统（内网）：http://172.31.194.149/wfc/logon](http://172.31.194.149/wfc/logon)
+[域账号密码重置：https://iforgot.ab-inbev.com/default.aspx](https://iforgot.ab-inbev.com/default.aspx)
+[BP系统：http://abichnasodev01:81/pages/index.aspx](http://abichnasodev01:81/pages/index.aspx)
+[myaccount：https://myaccount.ofc.loc/](https://myaccount.ofc.loc/)
+[LMS系统：https://ab-inbev.csod.com/client/ab-inbev/default.aspx?l=zh](https://ab-inbev.csod.com/client/ab-inbev/default.aspx?l=zh)
