@@ -1,7 +1,7 @@
 常用网站
 ===
 
-[VD:https://midesktop.cn.ab-inbev.com/Citrix/APACWeb/](https://midesktop.cn.ab-inbev.com/Citrix/APACWeb/)
+[VD:https://midesktop.ab-inbev.cn](https://midesktop.ab-inbev.cn)
 
 [O365邮箱：https://partner.outlook.cn/owa/cn.ab-inbev.com](https://partner.outlook.cn/owa/cn.ab-inbev.com)
 
